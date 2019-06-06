@@ -30,4 +30,6 @@ It contains url and webpage test functions.
 2. config.py
     It contains all configuration.
     
-3. 
+### Attention:
+1. when app start, it shows faker's debug info, it's normal
+2. run_test_server used to test whether it work after deploied
